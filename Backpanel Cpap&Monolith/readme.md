@@ -8,4 +8,4 @@ BOM:
  - 2X 2020 x 530mm extrusions
  - 2X 2020 x 470mm extrusions
  - Stock Rear panel
- - some sandpaper
+ - Some sandpaper
