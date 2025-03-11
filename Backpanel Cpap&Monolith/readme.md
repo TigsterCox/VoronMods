@@ -1,0 +1,11 @@
+BOM:
+Cpap + driver
+1 of each cpap plastic part
+2 Draw latches (found here https://www.printables.com/model/1021155)
+2 m3x20's BHCS/SHCS
+3 m2x10 self tapping screws
+6mm thick foam
+2X 2020 x 530mm extrusions
+2X 2020 x 470mm extrusions
+Stock Rear panel
+some sandpaper
