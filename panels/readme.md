@@ -1,5 +1,5 @@
 This is a panel mod build specifically for my v2.4
-Its intention is to cover upthe extrusions abit and have better squish across my panels
+Its intention is to cover up the extrusions and provide better squish across my panels (while looking alittle cooler)
 
 My panels are 3mm acrylic and 5mm foam
 The gap between the frame and the top lip of these is 7.5mm
