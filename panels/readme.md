@@ -4,8 +4,6 @@ Its intention is to cover upthe extrusions abit and have better squish across my
 My panels are 3mm acrylic and 5mm foam
 The gap between the frame and the top lip of these is 7.5mm
 
-THIS IS NOT COMPATABLE WITH MY REAR MONOLITH PANEL MOD
-
 BOM:
 8 Vertical Midspannage retainers    (8 for rearpanel mod)
 12 Horizontal midspannage retainers (11 for rearpanel mod)
