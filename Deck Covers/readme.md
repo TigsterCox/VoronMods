@@ -1,0 +1,1 @@
+A Modification of my panel clips to seal the bottom of my enclosure using the same 5mm foam
