@@ -25,7 +25,7 @@ A Collection of my god aweful voron mods consisting of
 - V0 Midpanel
     - a printed midpanel, for my v0, for support with my boards setup
 
-- Whirlpool
+- Vortex
     - bed fan mod that uses two 7530's at the back of the bed blowing forward
 
 
